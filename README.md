@@ -1,5 +1,5 @@
-# [Muhammad Iritiza](https://mirtiza.netlify.app/)
-[Live url](https://mirtiza.netlify.app/)
+# [Muhammad Ahmed](https://mahmed-psi.vercel.app/)
+[Live url](https://mahmed-psi.vercel.app/)
 
 You can use this portfolio template if want by just cloning this repo.
 
@@ -17,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 ### Preview
-![image](https://github.com/Irtiza751/my-portfolio/assets/91867702/2e3437a9-5ec6-4b45-bf94-a9bbebb752ae)
+![image](public/front-portfolio.png)
