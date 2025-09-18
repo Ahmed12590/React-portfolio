@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Muhammad Irtiza | Software engineer</title>
+        <title>Muhammad Ahmed | Software engineer</title>
       </Head>
       <HeroSection />
       <ProjectSection />

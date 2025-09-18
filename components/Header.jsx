@@ -64,7 +64,7 @@ export default function Header() {
                 },
               }}
             >
-              <Link href="https://github.com/Irtiza751/">
+              <Link href="https://github.com/Ahmed12590/">
                 <a target="_blank" className="hover:text-gray-200">
                   <GitHub size={24} />
                 </a>
@@ -80,7 +80,7 @@ export default function Header() {
                 },
               }}
             >
-              <Link href="https://www.linkedin.com/in/muhammad-irtiza-b68843211/">
+              <Link href="https://www.linkedin.com/in/ahmed-waseem-184a15177/">
                 <a className="hover:text-gray-200" target="_blank">
                   <Linkedin size={24} />
                 </a>
@@ -96,7 +96,7 @@ export default function Header() {
                 },
               }}
             >
-              <Link href="https://www.instagram.com/muhammad_irtiza751/">
+              <Link href="https://www.instagram.com/ahmed_waseem5/">
                 <a className="hover:text-gray-200" target="_blank">
                   <Instagram size={24} />
                 </a>
