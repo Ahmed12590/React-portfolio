@@ -20,14 +20,14 @@ export default function TechSection() {
             <Layout size={24} />
             <h4 className="text-3xl font-bold text-gray-200 mt-4">Front-end</h4>
             <p className="text-lg text-gray-300">
-              Experiece with React.js &amp; Next,js
+              Experiece with React.js &amp; Next.js
             </p>
           </div>
           <div className="bg-gray-800 py-8 px-12 flex flex-col items-center gap-2 text-sky-400 rounded-lg">
             <Database size={24} />
             <h4 className="text-3xl font-bold text-gray-200 mt-4">Back-end</h4>
             <p className="text-lg text-gray-300">
-              Experience with Nodejs, Python, MongoDB &amp; PostgreSQL
+              Experience with Node.js, Python, MongoDB &amp; PostgreSQL
             </p>
           </div>
           <div className="bg-gray-800 py-8 px-12 flex flex-col items-center gap-2 text-sky-400 rounded-lg">
