@@ -4,7 +4,7 @@ export const projects = [
     description:
       "This is an E-commerce build with reactjs and supabase, with all standard e-commerce functionalies, and 3rd party payment.",
     image: "/project-1.jpg",
-    tags: ["Reactjs", "Typescript", "Supabase", "Tailwindcss"],
+    tags: ["Reactjs", "Supabase", "Tailwindcss"],
     source: "https://github.com/Ahmed12590/",
     visit: "https://genzcom.netlify.app/",
     id: 0,
